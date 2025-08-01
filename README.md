@@ -2,7 +2,7 @@
 # Backend - Sistema de Control de Herramientas
 
 ## URL pública (deploy)
-https://api-herramientas-qf4v.onrender.com
+https://api.onrender.com
 
 ## Cómo usar la colección de Postman
 - Importa el archivo `Gestor de Herramientas API.postman_collection.json` en Postman.
